@@ -4,7 +4,7 @@
 
 ## Introduction:
 
-**Background:** Heart disease is one of the 
+**Background:** Heart disease is one of the leading cause of death in Canada.
 
 **Question:** We want to know if age, sex and resting heart rate might play a role in the presence of heart disease. 
 
@@ -17,3 +17,9 @@
 
 
 ## Expected Outcomes
+
+What do you expect to find?
+
+What impact could such findings have?
+
+What future questions could this lead to?
