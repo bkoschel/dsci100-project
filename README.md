@@ -10,10 +10,40 @@
 
 **ID and Describe the dataset used:** The dataset we are using to answer this question is heart disease dataset from the Cleveland provided to us through the UC Irvine Machine Learning Repository (3). It contains 14 attributes including age, sex, a chest pain scale, resting blood pressure, serum cholesterol, fasting blood sugar levels, resting electrocardiograph results, maximum heart rate achieved, exercise induced angina, ST depression induced by exercise relative to rest, the slope of the peak exercise ST segment, number of major vessels (0-3) colored by fluoroscopy, and diagnosis of heart disease.
 
+
+
 ## Preliminary exploratory data analysis:
 
 
 ## Methods
+
+**age:** age in years
+
+**sex:** male ("M") or female ("F")
+
+**cp:** chest pain type (Value 1: typical angina, Value 2: atypical angina, Value 3: non-anginal pain, Value 4: asymptomatic)
+
+**trestbps:** resting blood pressure (on admission to the hospital)
+
+**chol:** serum cholesterol in mg/dl
+
+**fbs:** fasting blood sugar > 120 mg/dl
+
+**restecg:** resting electrocardiographic results (Value 0: normal, Value 1: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV), Value 2: showing probable or definite left ventricular hypertrophy by Estes' criteria)
+
+**thalach:** maximum heart rate achieved
+
+**exang:** exercise induced angina
+
+**oldpeak:** ST depression induced by exercise relative to rest
+
+**slope:** the slope of the peak exercise ST segment (Value 1: upsloping, Value 2: flat, Value 3: downsloping)
+
+**ca:** number of major vessels (0-3) coloured by fluoroscopy
+
+**thal:** 3 = normal; 6 = fixed defect; 7 = reversable defect
+
+**num:** diagnosis of heart disease
 
 
 ## Expected Outcomes
